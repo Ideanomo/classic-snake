@@ -1,3 +1,0 @@
-require(["pixi"], function (pixi) {
-
-});
