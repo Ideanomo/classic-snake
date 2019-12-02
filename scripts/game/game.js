@@ -1,4 +1,4 @@
-define(['utils/scaleToWindow'], function (scaleToWindow) {
+define(['utils/scaleToWindow', 'utils/keyboard'], function (scaleToWindow, keyboard) {
 
     return function () {
         // Pixi variables
